@@ -1,0 +1,12 @@
+.card-footer {
+  text-align: center;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px;
+  position: static;
+  justify-content: center;
+}
+
+.card {
+  text-align: justify;
+}
