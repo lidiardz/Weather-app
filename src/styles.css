@@ -10,3 +10,11 @@
 .card {
   text-align: justify;
 }
+
+.weather-application {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
