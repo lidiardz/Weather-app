@@ -8,6 +8,13 @@
 }
 
 .card {
+  position: relative;
+  display: justify;
+  flex-direction: column;
+  min-width: 0;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(194, 201, 194, 0.945);
+  border-radius: 0.25rem;
   text-align: justify;
 }
 
@@ -20,5 +27,5 @@
 }
 
 .card-header {
-  background-color: rgb(199, 252, 199);
+  background-color: rgb(230, 252, 230);
 }
